@@ -1,0 +1,30 @@
+{
+  "name": "unit_testing",
+  "version": "1.0.0",
+  "description": "unit testing practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orjames/unit_testing.git"
+  },
+  "keywords": [
+    "unit",
+    "testing",
+    "unit",
+    "test",
+    "unit",
+    "test"
+  ],
+  "author": "Owen R James",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orjames/unit_testing/issues"
+  },
+  "homepage": "https://github.com/orjames/unit_testing#readme",
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  }
+}
